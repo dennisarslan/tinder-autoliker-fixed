@@ -1,0 +1,6 @@
+Je moet 1x handmatig op LIKE drukken, daarna gaat hij automatisch goed.
+
+De 1e keer staat de volgorde namelijk op
+Trsdu($normal) Wc($transform) Pe(a) Scale(1.1):h Scale(.9):a")[3];
+ipv
+Trsdu($normal) Wc($transform) Pe(a) Scale(1.1):h Scale(.9):a")[2];
